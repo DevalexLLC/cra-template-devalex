@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/cra-template-devalex) ![GitHub](https://img.shields.io/github/license/devalexLLC/cra-template-devalex)
+
 # cra-template-devalex
 
 This is the Devalex template for [Create React App](https://github.com/facebook/create-react-app).

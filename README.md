@@ -1,4 +1,5 @@
-![npm](https://img.shields.io/npm/v/cra-template-devalex) ![GitHub](https://img.shields.io/github/license/devalexLLC/cra-template-devalex)
+[![npm](https://img.shields.io/npm/v/cra-template-devalex)](https://www.npmjs.com/package/cra-template-devalex)
+[![GitHub](https://img.shields.io/github/license/devalexLLC/cra-template-devalex)](LICENSE)
 
 # cra-template-devalex
 

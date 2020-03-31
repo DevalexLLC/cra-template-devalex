@@ -1,19 +1,31 @@
 {
-  "workbench.settings.editor": "json",
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.codeActionsOnSaveTimeout": 4000,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
+  "eslint.packageManager": "npm",
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
   "javascript.format.enable": false,
   "typescript.tsdk": "node_modules/typescript/lib",
-  "eslint.packageManager": "npm",
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
-  "eslint.workingDirectories": [{ "mode": "auto" }],
-  "[javascript]": { "editor.formatOnSave": false },
-  "[typescript]": { "editor.formatOnSave": false },
-  "editor.codeActionsOnSave": { "source.fixAll": true },
-  "editor.codeActionsOnSaveTimeout": 4000
+  "workbench.settings.editor": "json"
 }

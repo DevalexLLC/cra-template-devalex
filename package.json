@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=8.10"
+    "node": ">=10.0"
   },
   "bugs": {
     "url": "https://github.com/DevalexLLC/cra-template-devalex/issues"
